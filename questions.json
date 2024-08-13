@@ -1,0 +1,238 @@
+[
+    {
+        "questionNo": "Q1.",
+        "question": "\"A\" is used before words that start with a vowel sound.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q2.",
+        "question": "I saw ____ elephant at the zoo. (a/an)",
+        "options": [
+            "a",
+            "an"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q3.",
+        "question": "Which article would you use in this sentence? \"I saw ____ UFO last night.\"",
+        "options": [
+            "a",
+            "an",
+            "the"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q4.",
+        "question": "____ Sun is very bright today. (A/The)",
+        "options": [
+            "A",
+            "The"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q5.",
+        "question": "We use \"the\" when referring to something specific.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q6.",
+        "question": "Can you pass me ____ salt, please? (a/the)",
+        "options": [
+            "a",
+            "the"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q7.",
+        "question": "\"An\" is used before words that start with a consonant sound.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q8.",
+        "question": "I saw ____ movie last night. (a/the)",
+        "options": [
+            "a",
+            "the"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q9.",
+        "question": "She bought ____ dozen eggs. (a/an)",
+        "options": [
+            "a",
+            "an"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q10.",
+        "question": "We always use \"the\" before the names of countries.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q11.",
+        "question": "She plays ____ piano beautifully. (a/the)",
+        "options": [
+            "a",
+            "the"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q12.",
+        "question": "\"A\" and \"an\" can be used with plural nouns.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q13.",
+        "question": "Choose the correct article: \"____ tallest building in the world is in Dubai.\"",
+        "options": [
+            "A",
+            "An",
+            "The"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q14.",
+        "question": "He is ____ honest man. (a/an)",
+        "options": [
+            "a",
+            "an"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q15.",
+        "question": "Which is correct? \"I need ____ umbrella.\"",
+        "options": [
+            "a",
+            "an",
+            "the"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q16.",
+        "question": "I live in ____ small town. (a/the)",
+        "options": [
+            "a",
+            "the"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q17.",
+        "question": "____ Eiffel Tower is in Paris. (A/The)",
+        "options": [
+            "A",
+            "The"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q18.",
+        "question": "Fill in the blank: \"He's ____ European.\"",
+        "options": [
+            "a",
+            "an",
+            "the"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q19.",
+        "question": "Choose the correct article: \"I have ____ cat and ____ dog.\"",
+        "options": [
+            "a, a",
+            "an, a",
+            "the, the"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q20.",
+        "question": "Which article fits here? \"____ Moon orbits Earth.\"",
+        "options": [
+            "A",
+            "An",
+            "The"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q21.",
+        "question": "Select the correct article: \"I saw ____ bird in ____ sky.\"",
+        "options": [
+            "a, a",
+            "a, the",
+            "the, a"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q22.",
+        "question": "Which is correct? \"She's ____ MBA student.\"",
+        "options": [
+            "a",
+            "an",
+            "the"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q23.",
+        "question": "Choose the correct article: \"____ Sahara Desert is in Africa.\"",
+        "options": [
+            "A",
+            "An",
+            "The"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q24.",
+        "question": "Choose the correct article: \"He's ____ best player on ____ team.\"",
+        "options": [
+            "the, the",
+            "a, the",
+            "the, a"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q25.",
+        "question": "Choose the correct article: \"He's ____ MP from London.\"",
+        "options": [
+            "a",
+            "an",
+            "the"
+        ],
+        "correct": 1
+    }
+]
